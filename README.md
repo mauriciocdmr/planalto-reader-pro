@@ -41,7 +41,7 @@ Este script foi desenvolvido com muito carinho para ajudar a comunidade de estud
 Para usar o Planalto Reader Pro, você precisa de um gerenciador de scripts no seu navegador. É muito simples:
 
 1. Instale a extensão **Tampermonkey** no seu navegador (disponível para Chrome, Edge, Firefox, Safari, etc).
-2. Após instalar a extensão, **[CLIQUE AQUI PARA INSTALAR O SCRIPT]**(Substitua_este_texto_e_os_colchetes_pelo_seu_link_RAW_do_github).
+2. Após instalar a extensão, **[CLIQUE AQUI PARA INSTALAR O SCRIPT](https://github.com/mauriciocdmr/planalto-reader-pro/raw/refs/heads/main/user.js)**.
 3. O Tampermonkey abrirá uma nova aba. Clique em **"Instalar"**.
 4. Pronto! Acesse qualquer lei no site `planalto.gov.br` e o script já estará funcionando magicamente.
 
